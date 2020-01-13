@@ -1,0 +1,6 @@
+gensim
+pattern
+pandas
+pyldavis
+numpy
+spacy
