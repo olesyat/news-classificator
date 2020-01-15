@@ -38,7 +38,7 @@ or
 * For Windows/MacOS/other distros you should find your way to install mysqlclient.
 
 ## Team
-| **Olesya Tretyak** | **Hermann Yavorskyi** |
+| **Olesia Tretiak** | **Hermann Yavorskyi** |
 | :---: |:---:|
 | [olesyat](https://github.com/olesyat) | [wardady](https://github.com/wardady) |
 
