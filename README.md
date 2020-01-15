@@ -26,10 +26,13 @@ Since we used library [**pattern**](https://pypi.org/project/pattern3/) it is po
 
 **Solution**:
 * Ubuntu/Debian based distros:
+
 ```sudo apt-get install libmysqlclient-dev```
+
 or
+
 ```sudo apt install default-libmysqlclient-dev```
-* Arch based distrosЖ
+* Arch based distros:
 > Install libmysqlclient from AUR
 
 * For Windows/MacOS/other distros you should find your way to install mysqlclient.
